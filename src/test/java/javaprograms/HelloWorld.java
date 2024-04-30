@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Hello World ...!");
 	}
 
+	@Test
 	public void findStringLength() {
 		String str = "Hello";
 		System.out.println(str.length());
